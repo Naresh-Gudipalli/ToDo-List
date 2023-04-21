@@ -32,4 +32,4 @@ Check out the live demo of the application at "https://naresh-gudipalli.github.i
 
 
 ## Authors
-@Naresh-Gudipalli
+- @Naresh-Gudipalli
