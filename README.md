@@ -5,9 +5,10 @@
  
 # Todo List App Using Vanilla JavaScript!!
 
-This is a simple and user-friendly To=do Lists application that is created using only vanilla JavaScript, HTML, and CSS, without relying on any external libraries/frameworks.. this is an assesment test given by coding ninjas..
-
+This is a simple and user-friendly To=do Lists application that is created using only vanilla JavaScript, HTML, and CSS, without relying on any external libraries/frameworks.. 
 This project sums up about how our day to days tasks can be managed in a organised way..!
+
+### Hosted link: https://naresh-gudipalli.github.io/ToDo-List/
 
 ## Key Features!
 
@@ -24,11 +25,6 @@ This project sums up about how our day to days tasks can be managed in a organis
 ## What I Learned
 
 This project helped me to understand the practical use cases of JavaScript and build a strong foundation in JavaScript development. I also learned about the local storage API and how to use it to preserve ToDo list data even after closing the browser and retrieve them when the user reopens the app.
-
-
-## Demo
-
-Check out the live demo of the application at "https://naresh-gudipalli.github.io/ToDo-List/" to see it in action.
 
 
 ## Authors
