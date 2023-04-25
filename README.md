@@ -28,7 +28,7 @@ This project helped me to understand the practical use cases of JavaScript and b
 
 ## Demo
 
-Check out the live demo of the application at "https://naresh-gudipalli.github.io/" to see it in action.
+Check out the live demo of the application at "https://naresh-gudipalli.github.io/ToDo-Lists.github.io/" to see it in action.
 
 
 ## Authors
