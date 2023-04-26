@@ -4,8 +4,8 @@
  
  <img width="1080" alt="todohome" src="https://user-images.githubusercontent.com/110377660/234668161-ba60cac8-dfe1-41d7-afed-1f68d876e320.png">
  
- 
- <img width="1080" alt="todohome" src="https://user-images.githubusercontent.com/110377660/234668450-f129cd2b-12f6-4c8a-813d-2441a2f05667.png">
+![todo](https://user-images.githubusercontent.com/110377660/234668899-c2cd9790-b2e3-40bb-8ead-7ef792121232.png)
+
 
 
 # Todo List App Using Vanilla JavaScript!!
