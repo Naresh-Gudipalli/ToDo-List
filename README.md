@@ -2,13 +2,18 @@
 # ToDo-List
  It can be used as a notes for checking day to day tasks in an organised manner.!!
  
+ <img width="1080" alt="todohome" src="https://user-images.githubusercontent.com/110377660/234668161-ba60cac8-dfe1-41d7-afed-1f68d876e320.png">
  
+ 
+ <img width="1080" alt="todohome" src="https://user-images.githubusercontent.com/110377660/234668450-f129cd2b-12f6-4c8a-813d-2441a2f05667.png">
+
+
 # Todo List App Using Vanilla JavaScript!!
 
 This is a simple and user-friendly To=do Lists application that is created using only vanilla JavaScript, HTML, and CSS, without relying on any external libraries/frameworks.. 
 This project sums up about how our day to days tasks can be managed in a organised way..!
 
-### Hosted link: https://naresh-gudipalli.github.io/ToDo-List/
+### Hosting link: https://naresh-gudipalli.github.io/ToDo-List/
 
 ## Key Features!
 
